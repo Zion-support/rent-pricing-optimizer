@@ -2,11 +2,18 @@
 
 Zion AI App Network (Batch 96 — Real Estate & Property AI): rent pricing optimizer — demand signals, seasonality, concession strategy, occupancy trade-offs.
 
-## Network
-- Apps map: https://ziontechgroup.com/apps/network.html
-- Apps index: https://ziontechgroup.com/apps/
-- Free AI Discovery (always online, always free — results emailed instantly to you and commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-- Hub: https://github.com/Zion-support/zion-network
+> **Status:** This repository documents a product concept and its landing page. Verify the implementation before a pilot; a published page is not proof of a functioning AI engine.
 
-## Batch 96 siblings
-[listing-copywriter-ai](https://github.com/Zion-support/listing-copywriter-ai) · [property-valuation-avm](https://github.com/Zion-support/property-valuation-avm) · [tenant-screening-ai](https://github.com/Zion-support/tenant-screening-ai) · [property-maintenance-triage](https://github.com/Zion-support/property-maintenance-triage) · [lease-abstractor-ai](https://github.com/Zion-support/lease-abstractor-ai) · [property-marketing-automation](https://github.com/Zion-support/property-marketing-automation) · [realestate-lead-followup-copilot](https://github.com/Zion-support/realestate-lead-followup-copilot)
+## Live app and next step
+- **Live app:** https://ziontechgroup.com/rent-pricing-optimizer/
+- [Free AI Discovery](https://ziontechgroup.com/discovery/) — start with a scoped assessment.
+
+## Related property operations paths
+- [Tenant Screening AI](https://ziontechgroup.com/tenant-screening-ai/)
+- [Property Valuation AVM](https://ziontechgroup.com/property-valuation-avm/)
+- [Property Maintenance Triage](https://ziontechgroup.com/property-maintenance-triage/)
+- [Apps map](https://ziontechgroup.com/apps/network.html)
+- [Zion App Network hub](https://ziontechgroup.com/zion-app-network/)
+- [Master hub repository](https://github.com/Zion-support/zion-app-network)
+
+© 2026 Zion Tech Group — commercial@ziontechgroup.com
